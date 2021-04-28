@@ -8,7 +8,7 @@ import * as xml2js from 'xml2js';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'ng-app';
+  title = 'angular-poc';
   xml = `
   <foo:Foo xmlns:foo="http://foo.com">
     <bar:Bar xmlns:bar="http://bar.com"/>
